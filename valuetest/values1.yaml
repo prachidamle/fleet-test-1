@@ -1,0 +1,18 @@
+microService1:
+  resources:
+    limits:
+      cpu: 500m
+      memory: 500Mi
+    requests:
+      cpu: 256m
+      memory: 256Mi
+  
+microService2:
+  resources:
+    limits:
+      cpu: 500m
+      memory: 500Mi
+    requests:
+      cpu: 256m
+      memory: 256Mi
+

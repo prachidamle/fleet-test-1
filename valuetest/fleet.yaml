@@ -1,0 +1,8 @@
+namespace: default
+helm:
+  chart: ./demo
+  valuesFiles:
+    - values1.yaml
+    - values2.yaml
+targets:
+- clusterSelector: {}  
