@@ -2,3 +2,6 @@ microService1:
   replicas: 1
 microService2:
   replicas: 2
+
+configmaps:
+configmap2: configvalue2

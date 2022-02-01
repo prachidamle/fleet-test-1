@@ -16,3 +16,5 @@ microService2:
       cpu: 256m
       memory: 256Mi
 
+configmaps:
+configmap1: configvalue1
