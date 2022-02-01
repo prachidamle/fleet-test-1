@@ -17,4 +17,4 @@ microService2:
       memory: 256Mi
 
 configmaps:
-configmap1: configvalue1
+  configmap1: configvalue1

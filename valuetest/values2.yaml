@@ -4,4 +4,4 @@ microService2:
   replicas: 2
 
 configmaps:
-configmap2: configvalue2
+  configmap2: configvalue2
